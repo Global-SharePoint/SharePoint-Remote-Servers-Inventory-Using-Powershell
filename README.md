@@ -45,3 +45,6 @@ Some sample output(for complete screeenshot please download the attached files).
 https://i0.wp.com/global-sharepoint.com/wp-content/uploads/2019/12/Get-SharePoint-server-inventory-using-PowerShell-HTML-Table.png?resize=1024%2C354&ssl=1
 
 https://i1.wp.com/global-sharepoint.com/wp-content/uploads/2019/12/Get-SharePoint-server-inventory-using-PowerShell-HTML-Table2.png?resize=1024%2C215&ssl=1
+
+Reference URL:
+https://global-sharepoint.com/powershell/sharepoint-server-monitoring-automation/
